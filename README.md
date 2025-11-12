@@ -53,6 +53,8 @@ picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
 Happy Hacking!
 Thank you!
 
+นายรัฐศาสตร์ ขวัญเพ็ง
+
 
 
 
